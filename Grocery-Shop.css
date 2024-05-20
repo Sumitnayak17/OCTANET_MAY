@@ -22,7 +22,6 @@ nav{
     font-size: 1.4em;
     letter-spacing: 2px;
     text-shadow: none;
-    
 }
 .jm-btn.primary {
     color:black;
@@ -116,7 +115,6 @@ img{
 .signup a:hover{
     background: transparent;
     border:1px solid orangered ;
-
 }
 .search{
     background: var(--bg-color-2);
@@ -136,7 +134,6 @@ img{
     background: none;
    color: var(--text-color-1);
     font-size: 1.5rem;
-    
 }
 .search label{
     font-size: 2rem;
@@ -144,7 +141,6 @@ img{
     color: var(--text-color-1);
     cursor: pointer;
 }
-
 .search label:hover{
     border: 1px solid black;
     color: orangered;
@@ -225,7 +221,6 @@ img{
     flex-direction: column;
     max-width: 100px;
     margin-left: 42px;
-    
 }
 .catagory-container{
     display: flex;
@@ -263,10 +258,8 @@ img{
     text-decoration: none;
 }
 .catagory-box:hover{
-    transform: translateY(-5px);
-    
+    transform: translateY(-5px);   
 }
-
 .foot{
     top: 85%;
     left: 5%;
