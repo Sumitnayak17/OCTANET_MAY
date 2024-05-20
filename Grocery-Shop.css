@@ -22,7 +22,6 @@ nav{
     font-size: 1.4em;
     letter-spacing: 2px;
     text-shadow: none;
-    
 }
 .jm-btn.primary {
     color:black;
@@ -93,17 +92,6 @@ img{
     letter-spacing: -0.07px !important;
     line-height: 1.4285714286 !important;
 }
-
-
-
-
-
-
-
-
-
-
-
 .menu a{
     text-decoration: none;
     color: white;
@@ -114,9 +102,7 @@ img{
     color: orangered;
 }
 .signup a{
-    text-decoration: none;
-
-   
+    text-decoration: none;   
     color: white;
     padding: 10px 20px;
     font-size: 17px;
@@ -128,7 +114,6 @@ img{
 .signup a:hover{
     background: transparent;
     border:1px solid orangered ;
-
 }
 .search{
     background: var(--bg-color-2);
@@ -147,8 +132,7 @@ img{
     text-transform: none;
     background: none;
    color: var(--text-color-1);
-    font-size: 1.5rem;
-    
+    font-size: 1.5rem;    
 }
 .search label{
     font-size: 2rem;
@@ -156,7 +140,6 @@ img{
     color: var(--text-color-1);
     cursor: pointer;
 }
-
 .search label:hover{
     border: 1px solid black;
     color: orangered;
@@ -172,7 +155,6 @@ img{
     cursor: pointer;
     text-align: center;
 }
-
 #search-btn{
     display: flex;
 }
@@ -232,15 +214,11 @@ img{
     background: transparent;
     border:1px solid orangered ;
 }
-
-
 #catagory{
     display: flex;
     flex-direction: column;
-
     max-width: 100px;
-    margin-left: 42px;
-    
+    margin-left: 42px;   
 }
 .catagory-container{
     display: flex;
@@ -249,8 +227,6 @@ img{
     margin-left: 0;
     margin-top: 400px;
 }
-
-
 .catagory-box{ 
     display: flex;
     
@@ -269,8 +245,7 @@ img{
     height: 35px;
     width: 90px;
     object-fit: contain;
-    object-position: center;
-    
+    object-position: center;  
 }
 .catagory-box span{
     color: #393939;
@@ -284,16 +259,6 @@ img{
     transform: translateY(-5px);
     
 }
-
-
-
-
-
-
-
-
-
-
 .foot{
     top: 85%;
     left: 5%;
@@ -325,5 +290,3 @@ img{
     font-size: xx-small;
     align-items: center;
 }
-
-
